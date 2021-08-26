@@ -6,6 +6,7 @@
       "coverUrl": "",
       "priority": "100",
       "name":"Copy Text On Screen",
+      "rating":4.0,
       "content": {
         "en": {
           "title": "Copy Text On Screen",
