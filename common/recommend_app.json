@@ -1,3 +1,18 @@
 {
-    
+  "data": [
+    {
+      "pkg": "com.spaceship.screen.textcopy",
+      "iconUrl": "",
+      "coverUrl": "",
+      "priority": "100",
+      "name":"Copy Text On Screen",
+      "content": {
+        "en": {
+          "title": "Copy Text On Screen - Translate & Copy Anywhere",
+          "desc": "Quickly copy text on the Facebook, Youtube, Instagram, Chrome...",
+          "action": "Install"
+        }
+      }
+    }
+  ]
 }
