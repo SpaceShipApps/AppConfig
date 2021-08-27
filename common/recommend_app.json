@@ -5,13 +5,18 @@
       "iconUrl": "https://play-lh.googleusercontent.com/EkHmyxrEjNsf0tXgsaDImNtVBLYKEFujyPUEIBLQyOyAzp7UUzOplfXeFbH_6G8xmD8t=s360",
       "coverUrl": "",
       "priority": "100",
-      "name":"Copy Text On Screen",
-      "rating":4.2,
+      "name": "Copy Text On Screen",
+      "rating": 4.2,
       "content": {
         "en": {
           "title": "Copy Text On Screen",
           "desc": "Translate & Copy text on the Facebook, Youtube, Browser...",
           "action": "Install"
+        },
+        "zh": {
+          "title": "屏幕文字複製",
+          "desc": "翻譯或複制任何應用上的文字，包括Facebook、Youtube、TikTok、瀏覽器等",
+          "action": "安裝"
         }
       }
     }
