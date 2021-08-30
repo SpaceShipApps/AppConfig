@@ -17,6 +17,31 @@
           "title": "屏幕文字複製",
           "desc": "翻譯或複制任何應用上的文字，包括Facebook、Youtube、TikTok、瀏覽器等",
           "action": "安裝"
+        },
+        "es": {
+          "title": "Copiar texto en pantalla",
+          "desc": "Traducir y copiar texto en Facebook, Youtube, navegador ...",
+          "action": "Instalar"
+        },
+        "fr": {
+          "title": "Copier le texte à l'écran",
+          "desc": "Traduire et copier du texte sur Facebook, Youtube, navigateur...",
+          "action": "Installer"
+        },
+        "ja": {
+          "title": "画面上のテキストをコピーする",
+          "desc": "Facebook、Youtube、ブラウザでテキストを翻訳してコピー...",
+          "action": "インストール"
+        },
+        "pt": {
+          "title": "Copiar texto na tela",
+          "desc": "Traduzir e copiar texto no Facebook, Youtube, navegador...",
+          "action": "Instalar"
+        },
+        "ru": {
+          "title": "Копировать текст на экране",
+          "desc": "Перевести и скопировать текст в Facebook, Youtube, браузере ...",
+          "action": "Установить"
         }
       }
     }
