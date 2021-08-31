@@ -44,6 +44,51 @@
           "action": "Установить"
         }
       }
+    },
+    {
+      "pkg": "com.spaceship.netprotect",
+      "iconUrl": "https://play-lh.googleusercontent.com/7MJVUm0FB45p9J9G-xVGxYyWy-68x82HKtXTqPuErfWsFiukhc2qcEKEQ0P0MhkyUfmH=s360",
+      "coverUrl": "https://lh3.googleusercontent.com/Xsk43QlfcnYxzIolFc9Dz2lAgw8capay3HeRmW0YB7lcVtQOtNBjlSpvuX1ch74QDA",
+      "priority": "1",
+      "name": "Adblock",
+      "rating": 4.0,
+      "content": {
+        "en": {
+          "title": "Adblock for all browsers",
+          "desc": "Faster ad blocker for all browsers(Chrome, Opera, Firefox, UC etc.)",
+          "action": "Install"
+        },
+        "zh": {
+          "title": "所有瀏覽器的廣告攔截",
+          "desc": "適用於所有瀏覽器（Chrome、Opera、Firefox、UC 等）的更快的廣告攔截器",
+          "action": "安裝"
+        },
+        "es": {
+          "title": "Adblock para todos los navegadores",
+          "desc": "Bloqueador de anuncios más rápido para todos los navegadores (Chrome, Opera, Firefox, UC, etc.)",
+          "action": "Instalar"
+        },
+        "fr": {
+          "title": "Adblock pour tous les navigateurs",
+          "desc": "Bloqueur de publicités plus rapide pour tous les navigateurs (Chrome, Opera, Firefox, UC, etc.)",
+          "action": "Installer"
+        },
+        "ja": {
+          "title": "すべてのブラウザのAdblock",
+          "desc": "すべてのブラウザ（Chrome、Opera、Firefox、UCなど）用のより高速な広告ブロッカー",
+          "action": "インストール"
+        },
+        "pt": {
+          "title": "Adblock para todos os navegadores",
+          "desc": "Bloqueador de anúncios mais rápido para todos os navegadores (Chrome, Opera, Firefox, UC etc.)",
+          "action": "Instalar"
+        },
+        "ru": {
+          "title": "Adblock для всех браузеров",
+          "desc": "Более быстрый блокировщик рекламы для всех браузеров (Chrome, Opera, Firefox, UC и т. Д.)",
+          "action": "Установить"
+        }
+      }
     }
   ]
 }
